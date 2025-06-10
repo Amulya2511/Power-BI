@@ -42,3 +42,9 @@ This repository features a collection of **Power BI** dashboards and reports cre
 - Interactive Filtering by Year/Genre/Country
 
 **File**: `Netflix Streaming Insights.pbix`
+
+## ⚙️ Tools Used
+- **Microsoft Power BI**
+- Data transformations using Power Query
+- DAX formulas for calculations and KPIs
+- Interactive visuals & slicers
