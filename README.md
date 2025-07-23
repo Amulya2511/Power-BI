@@ -6,7 +6,7 @@ This repository features a collection of **Power BI** dashboards and reports cre
 
 ## 📁 Included Projects
 
-### 1️⃣ Cadbury Sales Analysis 🍫
+### Cadbury Sales Analysis 🍫
 **Objective**: Analyze sales, region-wise performance, product category sales, and seasonal trends for Cadbury products.
 
 #### ✅ Features
@@ -19,7 +19,7 @@ This repository features a collection of **Power BI** dashboards and reports cre
 
 ---
 
-### 2️⃣ Wonderla Ticket Sales 🎢
+### Wonderla Ticket Sales 🎢
 **Objective**: Perform ticket sales analysis for Wonderla amusement park, focusing on visitor demographics, ticket types, and revenue generation.
 
 #### ✅ Features
@@ -32,7 +32,7 @@ This repository features a collection of **Power BI** dashboards and reports cre
 
 ---
 
-### 3️⃣ Netflix Streaming Insights 🎥
+###  Netflix Streaming Insights 🎥
 **Objective**: Explore streaming behavior and content preferences on Netflix.
 
 #### ✅ Features
@@ -45,7 +45,7 @@ This repository features a collection of **Power BI** dashboards and reports cre
 
 ---
 
-## 🏠 Real Estate Price Analysis
+### 🏠 Real Estate Price Analysis
 
 **File**: `Real_estate.pbix`  
 **Description**:  
