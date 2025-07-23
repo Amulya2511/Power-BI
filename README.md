@@ -43,6 +43,37 @@ This repository features a collection of **Power BI** dashboards and reports cre
 
 **File**: `Netflix Streaming Insights.pbix`
 
+---
+
+## 🏠 Real Estate Price Analysis
+
+**File**: `Real_estate.pbix`  
+**Description**:  
+This dashboard provides an in-depth analysis of real estate pricing trends. It includes:
+
+- 📍 Location-wise price distribution  
+- 📈 Price trends over time  
+- 📊 Property type segmentation  
+- 💰 Average, max, and min price comparison  
+
+Ideal for understanding market trends and aiding investment decisions.
+
+---
+
+## 🏏 IPL Cricket Analysis
+
+**File**: `IPL.pbix`  
+**Description**:  
+A comprehensive dashboard built from IPL data to explore team performances, player stats, and match outcomes. Highlights include:
+
+- 🏆 Team-wise win stats  
+- 🧢 Top run-scorers and wicket-takers  
+- 📅 Year-wise match summaries  
+- 📌 Venue and toss impact analysis  
+
+Perfect for cricket enthusiasts and sports analysts.
+
+
 ## ⚙️ Tools Used
 - **Microsoft Power BI**
 - Data transformations using Power Query
